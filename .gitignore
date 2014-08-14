@@ -1,0 +1,16 @@
+build
+build/*
+.idea
+.idea/*
+*.pyc
+*.pyo
+*.swp
+*~
+back*
+local_*
+.python-eggs
+proxy.conf
+*.zdsock
+log.txt
+*.log
+
